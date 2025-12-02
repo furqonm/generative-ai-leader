@@ -1,0 +1,15 @@
+### Main hands-on-lab
+Gemini [https://gemini.google.com](https://gemini.google.com)
+Notebook LM [https://notebooklm.google.com](https://notebooklm.google.com)
+Imagen Build an AI Image Generator app using Imagen on Vertex AI
+Gemini Enterprise Introduction to Gemini Enterprise
+Google AI Studio Takeaway try it: Parameter playground in Google AI Studio
+Google AI Studio Try it: RAG in action
+Google AI Studio Takeaway try it: Build your own agent
+Vertex AI Get Started with Vertex AI Studio
+Vertex AI Vertex AI: Predicting Loan Risk with AutoML
+
+### Optional hands-on-lab
+Gemini Explore Data with Gemini in BigQuery
+Gemini Provision Cloud Infrastructure with Gemini
+Vertex AI Build an LLM and RAG-based Chat Application with AlloyDB and Vertex AI
